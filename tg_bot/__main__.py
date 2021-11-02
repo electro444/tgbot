@@ -19,26 +19,17 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}! I'm a group manager bot maintained by [this wonderful person](tg://user?id={}).
-I'm built in python3, using the python-telegram-bot library, and am fully [opensource](https://github.com/PaulSonOfLars/tgbot) you can find what makes me tick \
-[here](github.com/SpEcHiDe/PSonOfLars_Marie)!
+Hi {},My name is EO GROUP MANAGER BOT!
 
-You can find the list of available commands with /help.
+If you have any questions about how to use me please give me /help... 
 
-Using standard [Marie](http://telegram.dog/BanhammerMarie_bot) is always gonna be easier.
-Perks:
-- latest features
-- it's free
-- biggest list of users for any /info commands
-- the database will always be correctly formatted
-- bugs will always be fixed ASAP
-- no need to maintain anything yourself
+I Am A Power Ful Group Manager Bot Maintained by @ELECTRO444.
 
-Also, no support can be given for any [clones](https://telegram.dog/MidukkiBot); source might be changed and that's not [my](https://telegram.dog/PaulSonOfLars) problem.
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+My future updates will be put into This Channel - @eofamilyff & My Support Group @eosupportff.
 
-If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
-"""
+For more commands click /help...
+
+Bot Owner @ELECTRO_444
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
